@@ -1,10 +1,10 @@
 # Discord Dashboard Example
-A simple Discord Bot Dashboard i've made. Coded with Express, Enmap and Discord.js.
+- A simple Discord Bot Dashboard i've made. Coded with Express, Enmap and Discord.js.
 
 ## Setup 
 1. Create a folder on your computer, then type the following console command to clone this repository.
 ```bash
-git clone https://github.com/NTMNathan/discord-dashboard
+git clone https://github.com/shoaib685/discord-dashboardbot-maste
 ```
 
 2. Create a Discord Application and name it.
@@ -32,4 +32,4 @@ node bot
 > Note: You do not need to enable and specify any gateway intents.
 
 ## Support and Feedback
- I will try to maintain this as much as possible. Feel free to join my [Discord Server](https://natebot.xyz/discord) and ask for help in the `#support` and `#bugs` channels. If you have any changes that you like to propose to this repo, make a Pull Request and i'll review it.
+ I will try to maintain this as much as possible. Feel free to join my [Discord Server](https://discord.gg/H4wNwpWhqS) and ask for help in the `#support` and `#bugs` channels. If you have any changes that you like to propose to this repo, make a Pull Request and i'll review it.
